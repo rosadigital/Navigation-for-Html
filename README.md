@@ -20,10 +20,10 @@
 <p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_03.jpg" width="400px">
 
 - Model 02 - version 04: Navbar with button to hidde with background
-<p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_04.jpg" width="400px">
+<p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_04.gif" width="400px">
 	
 - Model 02 - version 05: Navbar with button to hidde without background
-<p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_05.jpg" width="400px">
+<p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_05.gif" width="400px">
 
 - Model 03: Transparent navbar
 <p align="center"> <img alt="03_transparent_nav" title="#03_transparent_nav" src="./assets/03_transparent_nav.gif" width="400px">
