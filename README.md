@@ -7,11 +7,26 @@
 ---
 ## ⚙️ Project demonstration (demontração do projeto)
 
-- Responsive card by HTML, and CSS
-<p align="center"> <img alt="responsive-card" title="#responsive-card" src="./assets/responsive-card.gif" width="400px">
+- Model 01: Navbar with dropdown menu
+<p align="center"> <img alt="01_nav_dropdown" title="#01_nav_dropdown" src="./assets/01_nav_dropdown.gif" width="400px">
 
-- Responsive profile card by HTML, and CSS
-<p align="center"> <img alt="responsive-profile-card" title="#responsive-profile-card" src="./assets/responsive-profile-card.gif" width="400px">
+- Model 02 - version 01: Navbar with different position
+<p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_01.jpg" width="400px">
+
+- Model 02 - version 02: Navbar with different position
+<p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_02.jpg" width="400px">
+
+- Model 02 - version 03: Navbar with different position
+<p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_03.jpg" width="400px">
+
+- Model 02 - version 04: Navbar with button to hidde with background
+<p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_04.jpg" width="400px">
+	
+- Model 02 - version 05: Navbar with button to hidde without background
+<p align="center"> <img alt="02_navbar_01" title="#02_navbar_01" src="./assets/02_navbar_05.jpg" width="400px">
+
+- Model 03: Transparent navbar
+<p align="center"> <img alt="03_transparent_nav" title="#03_transparent_nav" src="./assets/03_transparent_nav.gif" width="400px">
 
 
 ---
@@ -19,8 +34,8 @@
 ## 💡 Knowledge acquired (conhecimentos adquiridos)
 
 - During this project, I learned:
-  - integrate CSS and HTML codes;
-  - using containers on HTML and hover it by CSS.
+  - ;
+  - .
 
 
 ---
@@ -38,7 +53,7 @@ Before you begin, you will need to install on your computer the following tool: 
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:rosadigital/Neon-button.git
+$ git@github.com:rosadigital/Navigation-for-Html.git
 
 # Open the repository on VS Code to run
 
