@@ -1,8 +1,8 @@
 # Navigation for Html
 ## 💻 About this project (sobre este projeto)
-:us: This project aimed testing and learning HTML, CSS, and JS codes with focus on different types of responsive cards, based on youtube tutorials.
+:us: This project aimed testing and learning HTML, CSS, and JS codes with focus on different types of navbars, some of them based on youtube tutorials.
 
-:brazil: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS com foco em diferentes tipos de cards responsivos, baseado em tutoriais do youtube.
+:brazil: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS com foco em diferentes tipos de navbars, alguns deles baseado em tutoriais do youtube.
 
 ---
 ## ⚙️ Project demonstration (demontração do projeto)
@@ -34,8 +34,8 @@
 ## 💡 Knowledge acquired (conhecimentos adquiridos)
 
 - During this project, I learned:
-  - ;
-  - .
+  - how to animating a navbar;
+  - how to create different types of navbars.
 
 
 ---
