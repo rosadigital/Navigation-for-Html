@@ -34,7 +34,7 @@
 ## 💡 Knowledge acquired (conhecimentos adquiridos)
 
 - During this project, I learned:
-  - how to animating a navbar;
+  - how to animating a navbar; and
   - how to create different types of navbars.
 
 
